@@ -1,12 +1,33 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Modelación de un heroe de dota 2, clase Heroe, con atributos de nombre del heroe,
+el atributo principal del heroe(Fuerza, Agilidad o Inteligencia), estadisticas 
+de sus atributos(Fuerza, Agilidad, Inteligencia), cantidad de vida, daño y defenza 
+como Estadisticas Generales.
+Los metodos se llaman Atacar y Defender.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
+PROJECT TITLE: Heroe
+PURPOSE OF PROJECT: Abstracción de un heroe de dota 2
+VERSION or DATE: Jueves/08/04/2021
+HOW TO START THIS PROJECT: Analisis de un videojuego
+AUTHORS: Marcelo Oscar Cardozo Cadima
 USER INSTRUCTIONS:
+        Heroe1
+Nombre=Mirana
+Atributo=Agilidad
+Vida=560
+Escudo=2
+Daño=50
+Fuerza=18
+Agilidad=18
+Inteligancia=22
+
+        Heroe2
+Nombre=Dragon Knight
+Atributo=Fuerza
+Vida=620
+Escudo=3
+Daño=58
+Fuerza=21
+Agilidad=19
+Inteligencia=18
